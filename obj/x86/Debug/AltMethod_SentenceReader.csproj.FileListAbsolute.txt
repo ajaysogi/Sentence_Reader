@@ -1,0 +1,5 @@
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\bin\Debug\AltMethod_SentenceReader.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\bin\Debug\AltMethod_SentenceReader.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.csprojResolveAssemblyReference.cache

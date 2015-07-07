@@ -1,0 +1,15 @@
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\bin\Debug\AltMethod_SentenceReader.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\bin\Debug\AltMethod_SentenceReader.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\Sentence_Analyzer_Application.csprojResolveAssemblyReference.cache
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\bin\Debug\AltMethod_SentenceReader.exe
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\bin\Debug\AltMethod_SentenceReader.pdb
+C:\Users\Ajay\Google Drive\ASD\Assignment 1\Complete 2 Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\Sentence_Analyzer_Application.csprojResolveAssemblyReference.cache
+F:\Complete University Projects\C# Console Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.exe
+F:\Complete University Projects\C# Console Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\AltMethod_SentenceReader.pdb
+F:\Complete University Projects\C# Console Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\bin\Debug\AltMethod_SentenceReader.exe
+F:\Complete University Projects\C# Console Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\bin\Debug\AltMethod_SentenceReader.pdb
+F:\Complete University Projects\C# Console Applications\AltMethod_SentenceReader\AltMethod_SentenceReader\obj\x86\Debug\Sentence_Analyzer_Application.csprojResolveAssemblyReference.cache
